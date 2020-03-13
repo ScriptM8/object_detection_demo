@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>0.jpg</filename>
-	<path>/home/makscizi/Downloads/object_detection_demo-master2/data/images/train/0.jpg</path>
+	<filename>27.jpg</filename>
+	<path>/home/makscizi/Downloads/object_detection_demo-master/data/images/train/27.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Max</name>
+		<name>Igor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>367</xmin>
-			<ymin>281</ymin>
-			<xmax>461</xmax>
-			<ymax>411</ymax>
+			<xmin>362</xmin>
+			<ymin>260</ymin>
+			<xmax>501</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 </annotation>
